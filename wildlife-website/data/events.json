@@ -1,0 +1,165 @@
+[
+  {
+    "id": 1,
+    "title": "Wildlife Photography Workshop",
+    "date": "2025-12-05",
+    "time": "09:00 - 16:00",
+    "location": "Jacob's Wildlife Rescue Centre",
+    "ageGroup": "adults",
+    "price": 85,
+    "capacity": 12,
+    "spotsAvailable": 5,
+    "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=800&q=80",
+    "shortDescription": "Professional wildlife photography techniques with close access to rescued animals.",
+    "fullDescription": "Join us for an intensive full-day workshop where you'll learn professional wildlife photography techniques from award-winning nature photographer Sarah MacLeod. This exclusive workshop provides unprecedented access to our resident animals, allowing you to photograph red squirrels, pine martens, owls, and more in naturalistic settings. You'll learn about camera settings, composition, lighting, and ethical wildlife photography practices. The workshop includes practical sessions, one-on-one guidance, and a portfolio review. All skill levels welcome, but participants must bring their own DSLR or mirrorless camera. Lunch and refreshments included.",
+    "requirements": [
+      "Must bring DSLR or mirrorless camera with telephoto lens",
+      "Basic understanding of camera manual mode recommended",
+      "Suitable footwear for outdoor environments",
+      "Weather-appropriate clothing"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Junior Zookeeper Experience",
+    "date": "2025-12-14",
+    "time": "10:00 - 15:00",
+    "location": "Jacob's Wildlife Rescue Centre",
+    "ageGroup": "children",
+    "price": 45,
+    "capacity": 10,
+    "spotsAvailable": 3,
+    "image": "https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?w=800&q=80",
+    "shortDescription": "Hands-on experience helping care for rescued Scottish wildlife (ages 8-15).",
+    "fullDescription": "Give your child an unforgettable day working alongside our experienced wildlife care team! This hands-on experience is designed for children aged 8-15 who are passionate about animals and conservation. Participants will help prepare food, learn about animal behaviour, assist with habitat enrichment, and even help feed some of our residents under close supervision. The day includes educational sessions about Scottish wildlife, conservation challenges, and what it takes to work in wildlife rehabilitation. Each child receives a Junior Zookeeper certificate, a wildlife rescue centre t-shirt, and an information pack to take home. Parents/guardians must remain on-site but do not need to book separately. Lunch and drinks provided.",
+    "requirements": [
+      "Aged 8-15 years",
+      "Parent/guardian must remain on-site",
+      "Closed-toe shoes essential",
+      "Old clothes that can get dirty",
+      "Any allergies must be disclosed at booking"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Scottish Wildlife Talk & Tour",
+    "date": "2025-12-08",
+    "time": "14:00 - 16:00",
+    "location": "Jacob's Wildlife Rescue Centre",
+    "ageGroup": "all",
+    "price": 12,
+    "capacity": 30,
+    "spotsAvailable": 18,
+    "image": "https://images.unsplash.com/photo-1508817628294-5a453fa0b8fb?w=800&q=80",
+    "shortDescription": "Educational tour of the centre with talk on Scottish wildlife conservation (suitable for all ages).",
+    "fullDescription": "Join our expert guides for a fascinating two-hour tour of Jacob's Wildlife Rescue Centre. This family-friendly event begins with an illustrated talk about Scotland's native wildlife, the threats they face, and the conservation work being done to protect them. You'll then tour the centre's facilities, seeing rescued animals and learning about their individual stories. The tour includes our red squirrel enclosures, bird of prey aviaries, and otter rehabilitation pools. Our guides will explain the rehabilitation process and answer all your questions about wildlife rescue and conservation. This event is perfect for families, school groups, and anyone interested in Scottish wildlife. Children under 5 go free. Booking essential as places are limited.",
+    "requirements": [
+      "Suitable for all ages",
+      "Partially outdoors - dress appropriately",
+      "Wheelchair accessible routes available",
+      "Children must be supervised by adults"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Pet First Aid Course",
+    "date": "2025-12-12",
+    "time": "18:30 - 21:00",
+    "location": "Jacob's Pet Shop",
+    "ageGroup": "adults",
+    "price": 55,
+    "capacity": 15,
+    "spotsAvailable": 7,
+    "image": "https://images.unsplash.com/photo-1548767797-d8c844163c4c?w=800&q=80",
+    "shortDescription": "Essential first aid skills for pet owners, taught by qualified veterinary professionals.",
+    "fullDescription": "Every pet owner should know basic first aid - it could save your pet's life in an emergency. This comprehensive evening course is taught by qualified veterinary nurses and covers essential skills including CPR for dogs and cats, wound care, choking response, poisoning protocols, and recognising signs of serious illness. You'll practice techniques on lifelike models and receive a comprehensive first aid manual to take home. The course covers emergency situations, when to call the vet, and how to create a home pet first aid kit. Perfect for new and experienced pet owners alike. Upon completion, participants receive a Pet First Aid certificate valid for three years. Light refreshments included.",
+    "requirements": [
+      "Ages 18+",
+      "No previous experience necessary",
+      "Please inform us of any latex allergies"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Christmas Wildlife Crafts",
+    "date": "2025-12-21",
+    "time": "10:00 - 12:00",
+    "location": "Jacob's Pet Shop",
+    "ageGroup": "children",
+    "price": 15,
+    "capacity": 20,
+    "spotsAvailable": 12,
+    "image": "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=800&q=80",
+    "shortDescription": "Festive craft session making wildlife-themed decorations (ages 5-12).",
+    "fullDescription": "Get into the Christmas spirit while learning about Scottish wildlife! This fun craft session is perfect for children aged 5-12 who love animals and being creative. Children will make their own wildlife-themed Christmas decorations including painted pine cone owls, felt red squirrels, and clay animal ornaments to take home. The session includes stories about how Scottish wildlife spends winter, and each child will make a simple bird feeder to hang in their garden. All materials provided, and children will create at least 5 items to take home. This is a drop-off session - parents are welcome to shop or enjoy a coffee at our café during the session. Each child receives a goodie bag with wildlife stickers and a mini information booklet. Snacks and drinks provided.",
+    "requirements": [
+      "Aged 5-12 years",
+      "All materials provided",
+      "Aprons provided but children may get paint on clothes",
+      "Parents can drop off or stay"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "New Year Wildlife Walk",
+    "date": "2026-01-01",
+    "time": "11:00 - 13:30",
+    "location": "Cairngorm Woodlands (meet at Wildlife Centre)",
+    "ageGroup": "all",
+    "price": 18,
+    "capacity": 25,
+    "spotsAvailable": 20,
+    "image": "https://images.unsplash.com/photo-1519904981063-b0cf448d479e?w=800&q=80",
+    "shortDescription": "Guided woodland walk to spot wild red squirrels and winter birds (all ages welcome).",
+    "fullDescription": "Start the new year with a breath of fresh Scottish air! Join our experienced wildlife guide for a gentle 2.5-hour walk through the beautiful Cairngorm woodlands, where we'll look for signs of red squirrels, winter birds, and other wildlife. This is one of the best times of year to spot red squirrels as they're active during daylight hours, searching for their buried food caches. We'll also look for tracks, droppings, and other signs of pine martens, deer, and foxes. The walk includes stops at feeding stations where we regularly see red squirrels, and our guide will share fascinating information about Scottish woodland ecology. Suitable for families with children aged 6+. The route covers approximately 3km on woodland paths. Hot chocolate and homemade shortbread served at the end! Binoculars provided if needed.",
+    "requirements": [
+      "Suitable for ages 6+",
+      "Walking boots or sturdy footwear essential",
+      "Warm, waterproof clothing",
+      "Moderate fitness level required",
+      "Dogs not permitted"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Advanced Wildlife Tracking",
+    "date": "2025-12-18",
+    "time": "09:00 - 17:00",
+    "location": "Grampian Forest Reserve",
+    "ageGroup": "adults",
+    "price": 95,
+    "capacity": 8,
+    "spotsAvailable": 4,
+    "image": "https://images.unsplash.com/photo-1511497584788-876760111969?w=800&q=80",
+    "shortDescription": "Professional tracking course learning to identify Scottish wildlife signs and behaviour.",
+    "fullDescription": "Take your wildlife watching to the next level with this intensive tracking course led by conservation expert James McNeil. This full-day field course teaches you to read the landscape and identify signs of Scottish wildlife including tracks, scat, feeding signs, and territorial markers. You'll learn to distinguish between species, estimate when animals passed through an area, and understand behaviour patterns. The day includes both classroom sessions covering tracking theory and extensive fieldwork in prime wildlife habitat. We'll search for signs of red deer, pine martens, wildcats, badgers, and more. This course is suitable for wildlife enthusiasts, photographers, and those working in conservation. Previous fieldwork experience recommended. Participants should have good fitness levels as we'll cover rough terrain. Course materials, lunch, and hot drinks included.",
+    "requirements": [
+      "Ages 18+",
+      "Good physical fitness required",
+      "Hiking boots and outdoor clothing essential",
+      "Previous wildlife watching experience recommended",
+      "Course runs in all weather conditions"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Night Time Owl Prowl",
+    "date": "2025-12-28",
+    "time": "18:00 - 21:00",
+    "location": "Jacob's Wildlife Rescue Centre & Local Woods",
+    "ageGroup": "all",
+    "price": 22,
+    "capacity": 20,
+    "spotsAvailable": 9,
+    "image": "https://images.unsplash.com/photo-1568899270183-37b14ac2a824?w=800&q=80",
+    "shortDescription": "Evening adventure to see our resident owls and listen for wild owls calling (ages 8+).",
+    "fullDescription": "Experience the magic of owls in the darkness! This enchanting evening begins at the wildlife centre where you'll meet our resident barn owls and tawny owls, learning about their incredible adaptations for nocturnal hunting. You'll see a feeding demonstration and discover why owls are such effective predators. Then, equipped with torches, we'll take a short walk through nearby woods listening for wild owls calling and hoping for a glimpse of these magnificent birds in their natural habitat. Winter is one of the best times to hear owls as males are establishing territories. We'll also look for signs of other nocturnal wildlife. The experience includes hot chocolate and owl-shaped cookies! This is a popular event perfect for families with older children. Children aged 8-15 must be accompanied by an adult. Dress very warmly as we'll be standing still for periods.",
+    "requirements": [
+      "Suitable for ages 8+",
+      "Children must be accompanied by adults",
+      "Very warm clothing essential",
+      "Torch/headtorch recommended",
+      "Terrain includes uneven ground in darkness"
+    ]
+  }
+]

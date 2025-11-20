@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "Red Squirrel",
+    "scientificName": "Sciurus vulgaris",
+    "category": "Mammal",
+    "conservationStatus": "Endangered in UK",
+    "sponsorshipCost": 25,
+    "image": "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=800&q=80",
+    "shortDescription": "Scotland's native red squirrel is one of our most iconic woodland creatures, now under threat from habitat loss and competition.",
+    "fullDescription": "The red squirrel is one of Scotland's most beloved native species. These charming creatures are smaller than their grey cousins and feature distinctive ear tufts and a magnificent russet coat. Once common throughout the UK, red squirrels are now confined mainly to Scotland, where conservation efforts are helping to protect them. At Jacob's Wildlife Rescue Centre, we care for injured and orphaned red squirrels, rehabilitating them for release back into protected woodland areas. Your sponsorship helps provide specialist care, food, and habitat protection for these endangered animals.",
+    "habitat": "Coniferous and mixed woodland",
+    "diet": "Seeds, nuts, fungi, and tree bark",
+    "threats": "Grey squirrel competition, habitat loss, disease",
+    "facts": [
+      "Can jump distances of up to 2 metres",
+      "Store thousands of nuts each year, forgetting many which grow into new trees",
+      "Distinctive ear tufts appear in winter months",
+      "Can live up to 7 years in the wild"
+    ],
+    "currentResidents": 4
+  },
+  {
+    "id": 2,
+    "name": "Pine Marten",
+    "scientificName": "Martes martes",
+    "category": "Mammal",
+    "conservationStatus": "Protected Species",
+    "sponsorshipCost": 35,
+    "image": "https://images.unsplash.com/photo-1594675553036-c0d8e13a969f?w=800&q=80",
+    "shortDescription": "The elusive pine marten is making a comeback in Scottish woodlands, thanks to dedicated conservation efforts.",
+    "fullDescription": "Pine martens are agile members of the mustelid family, known for their beautiful chocolate-brown fur and distinctive cream-yellow throat patch. Once persecuted to near extinction in Britain, these remarkable predators are now recovering in Scotland. They're excellent climbers and spend much of their time in trees, hunting small mammals, birds, and insects. Pine martens play a crucial role in woodland ecosystems and their presence actually helps red squirrel populations by outcompeting grey squirrels. At our rescue centre, we care for orphaned pine marten kits and injured adults, preparing them for release into suitable habitats. Your sponsorship supports their specialist diet, veterinary care, and habitat enrichment.",
+    "habitat": "Native woodland, particularly coniferous forests",
+    "diet": "Small mammals, birds, eggs, insects, berries, and fungi",
+    "threats": "Habitat fragmentation, road accidents, illegal persecution",
+    "facts": [
+      "Can rotate their ankles 180 degrees to climb down trees headfirst",
+      "Have semi-retractable claws perfect for climbing",
+      "Their presence benefits red squirrels by reducing grey squirrel numbers",
+      "Historically hunted for their valuable fur"
+    ],
+    "currentResidents": 2
+  },
+  {
+    "id": 3,
+    "name": "Scottish Wildcat",
+    "scientificName": "Felis silvestris silvestris",
+    "category": "Mammal",
+    "conservationStatus": "Critically Endangered",
+    "sponsorshipCost": 50,
+    "image": "https://images.unsplash.com/photo-1574158622682-e40e69881006?w=800&q=80",
+    "shortDescription": "Britain's last native wild cat species, the Scottish wildcat is one of the world's rarest felines, with fewer than 300 left in the wild.",
+    "fullDescription": "The Scottish wildcat is a true icon of the Highlands and one of Britain's most endangered mammals. Often called the 'Highland Tiger', these magnificent cats are larger and more muscular than domestic cats, with distinctive thick, blunt-ended tails marked with black rings. They're solitary, territorial hunters, perfectly adapted to Scotland's rugged landscapes. Wildcats face critical threats from hybridisation with domestic cats, habitat loss, and disease. At Jacob's Wildlife Rescue Centre, we participate in the Scottish Wildcat Conservation Action Plan, providing specialist care for injured wildcats and supporting breeding programmes to preserve pure genetic lines. Your sponsorship directly contributes to one of Britain's most important conservation projects, helping to save this species from extinction.",
+    "habitat": "Remote upland forests and moorland",
+    "diet": "Rabbits, small mammals, birds, and amphibians",
+    "threats": "Hybridisation with feral cats, habitat loss, vehicle collisions, disease",
+    "facts": [
+      "Can be distinguished from hybrids by their blunt, bushy tails with 7-10 complete rings",
+      "Require territories of 10-30 square kilometres",
+      "Females raise kittens alone in secluded dens",
+      "Subject to intensive conservation breeding programmes"
+    ],
+    "currentResidents": 1
+  },
+  {
+    "id": 4,
+    "name": "Red Kite",
+    "scientificName": "Milvus milvus",
+    "category": "Bird",
+    "conservationStatus": "Protected Species",
+    "sponsorshipCost": 30,
+    "image": "https://images.unsplash.com/photo-1611689037241-d8dfe4a79f33?w=800&q=80",
+    "shortDescription": "These magnificent birds of prey, with their distinctive forked tails and russet plumage, have made a remarkable recovery in Scotland.",
+    "fullDescription": "The red kite is one of Britain's most spectacular raptors, easily identified by its deeply forked tail and distinctive russet-coloured plumage. With a wingspan of up to 1.8 metres, watching red kites soar and glide on thermals is a truly memorable sight. Once extinct in Scotland, successful reintroduction programmes have seen these birds return to our skies. Red kites are primarily scavengers, playing an important role in the ecosystem by cleaning up carrion. At our rescue centre, we care for red kites injured through various causes including poisoning, collision with power lines, and extreme weather. We also monitor released birds and maintain feeding stations in safe areas. Your sponsorship helps provide medical treatment, appropriate housing, and food for these majestic birds during their recovery.",
+    "habitat": "Mixed farmland and woodland edges",
+    "diet": "Carrion, small mammals, earthworms, and occasionally live prey",
+    "threats": "Illegal poisoning, power line collisions, habitat loss",
+    "facts": [
+      "Can spot a dead mouse from 2000 feet in the air",
+      "Known to steal washing from garden lines to decorate their nests",
+      "One of the most agile birds in flight, able to catch insects mid-air",
+      "Successfully reintroduced to Scotland starting in 1996"
+    ],
+    "currentResidents": 3
+  },
+  {
+    "id": 5,
+    "name": "European Otter",
+    "scientificName": "Lutra lutra",
+    "category": "Mammal",
+    "conservationStatus": "Protected Species",
+    "sponsorshipCost": 40,
+    "image": "https://images.unsplash.com/photo-1574781330000-124ad1197418?w=800&q=80",
+    "shortDescription": "Playful and charismatic, European otters are thriving in Scotland's clean rivers and coastal areas.",
+    "fullDescription": "European otters are semi-aquatic mammals perfectly adapted for life in and around water. With their streamlined bodies, webbed feet, and thick, waterproof fur, they're excellent swimmers and divers. Scotland hosts one of Europe's strongest otter populations, thanks to cleaner waterways and protected habitats. These charismatic animals are both playful and solitary, marking their territories along riverbanks and coasts. At Jacob's Wildlife Rescue Centre, we specialise in otter rehabilitation, particularly orphaned cubs who require months of care before they can be released. Otters need to learn hunting and survival skills, so rehabilitation is a complex, long-term process. Your sponsorship provides specialist aquatic facilities, fish diet, and expert care that helps these cubs develop the skills they need to thrive in the wild.",
+    "habitat": "Rivers, lakes, coastal areas, and wetlands",
+    "diet": "Fish, crustaceans, amphibians, and small mammals",
+    "threats": "Road accidents, illegal fish trap drowning, habitat disturbance",
+    "facts": [
+      "Can hold their breath for up to 8 minutes underwater",
+      "Have around 1 million hairs per square inch - the densest fur of any mammal",
+      "Cubs stay with their mother for up to 18 months learning to hunt",
+      "Play an important role as an indicator species of clean waterways"
+    ],
+    "currentResidents": 5
+  },
+  {
+    "id": 6,
+    "name": "Barn Owl",
+    "scientificName": "Tyto alba",
+    "category": "Bird",
+    "conservationStatus": "Protected Species",
+    "sponsorshipCost": 28,
+    "image": "https://images.unsplash.com/photo-1563177222-88788d1d0b43?w=800&q=80",
+    "shortDescription": "These ghostly white owls are skilled nocturnal hunters, relying on exceptional hearing to catch prey in complete darkness.",
+    "fullDescription": "Barn owls are among Britain's most beautiful birds, with their distinctive heart-shaped faces and silent flight. These nocturnal hunters have extraordinary hearing - they can locate prey in complete darkness using sound alone. Their asymmetrically placed ears allow them to pinpoint the exact location of small mammals moving through grass. Barn owls face challenges from habitat loss, particularly the loss of rough grassland hunting grounds and traditional nesting sites in old barns and trees. At our centre, we care for barn owls brought in after collisions with vehicles, starvation during harsh winters, or as orphaned chicks. We also work with local farmers to install owl boxes and maintain hunting habitats. Your sponsorship supports veterinary care, appropriate housing with flight aviaries, and helps fund habitat conservation projects.",
+    "habitat": "Farmland, grassland, and open countryside",
+    "diet": "Small mammals, particularly field voles, shrews, and mice",
+    "threats": "Habitat loss, road accidents, severe weather, rodenticide poisoning",
+    "facts": [
+      "Can catch prey in total darkness using hearing alone",
+      "Silent flight thanks to specially adapted feathers",
+      "Heart-shaped face acts like a satellite dish, directing sound to their ears",
+      "A single barn owl family can consume thousands of rodents per year"
+    ],
+    "currentResidents": 6
+  }
+]

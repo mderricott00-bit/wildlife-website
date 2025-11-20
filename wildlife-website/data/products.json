@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Premium Scottish Salmon Dog Food",
+    "category": "Dog Food",
+    "price": 24.99,
+    "description": "High-quality dog food made with sustainably sourced Scottish salmon, rich in omega-3 fatty acids for a healthy coat and skin.",
+    "image": "https://images.unsplash.com/photo-1589924691995-400dc9ecc119?w=800&q=80",
+    "featured": true,
+    "inStock": true,
+    "details": "Complete nutrition for adult dogs. Contains 60% salmon, sweet potato, and essential vitamins. No artificial colours or preservatives. Grain-free formula suitable for sensitive stomachs."
+  },
+  {
+    "id": 2,
+    "name": "Natural Cat Scratching Post",
+    "category": "Cat Accessories",
+    "price": 34.99,
+    "description": "Handcrafted scratching post made from sustainable Scottish timber with natural sisal rope, perfect for keeping your cat's claws healthy.",
+    "image": "https://images.unsplash.com/photo-1545249390-6bdfa286032f?w=800&q=80",
+    "featured": true,
+    "inStock": true,
+    "details": "Height: 75cm. Base: 40x40cm. Made from locally sourced pine. Natural sisal rope wrapping. Stable weighted base. Top perch with soft cushion."
+  },
+  {
+    "id": 3,
+    "name": "Organic Rabbit Food Mix",
+    "category": "Small Animal Food",
+    "price": 12.99,
+    "description": "Nutritionally balanced organic mix of timothy hay, herbs, and vegetables specifically formulated for rabbits and guinea pigs.",
+    "image": "https://images.unsplash.com/photo-1535241749838-299277b6305f?w=800&q=80",
+    "featured": true,
+    "inStock": true,
+    "details": "2kg bag. Certified organic ingredients. High fibre content supports digestive health. Contains dandelion, nettle, and chamomile. No added sugars or artificial ingredients."
+  },
+  {
+    "id": 4,
+    "name": "Luxury Heated Pet Bed",
+    "category": "Pet Bedding",
+    "price": 49.99,
+    "description": "Energy-efficient heated pet bed with removable, washable cover. Perfect for keeping your pet warm during Scottish winters.",
+    "image": "https://images.unsplash.com/photo-1597845116386-3fc6ec0d087b?w=800&q=80",
+    "featured": true,
+    "inStock": true,
+    "details": "Available in Medium (60x45cm) and Large (80x60cm). Low voltage heating element (12V). Thermostat controlled. Machine washable outer cover. Memory foam base. Energy rating A++."
+  },
+  {
+    "id": 5,
+    "name": "Interactive Dog Toy Bundle",
+    "category": "Dog Toys",
+    "price": 29.99,
+    "description": "Set of 5 durable, interactive toys designed to stimulate your dog's mind and keep them entertained for hours.",
+    "image": "https://images.unsplash.com/photo-1612536219863-f896b89e5dfc?w=800&q=80",
+    "featured": true,
+    "inStock": true,
+    "details": "Includes: treat-dispensing ball, rope tug toy, squeaky plush toy, puzzle feeder, and floating fetch toy. Non-toxic materials. Suitable for dogs of all sizes. Helps reduce anxiety and boredom."
+  },
+  {
+    "id": 6,
+    "name": "Wild Bird Seed Mix",
+    "category": "Bird Food",
+    "price": 15.99,
+    "description": "Premium blend of seeds, nuts, and dried mealworms to attract and nourish Scottish garden birds throughout the year.",
+    "image": "https://images.unsplash.com/photo-1552728089-57bdde30beb3?w=800&q=80",
+    "featured": true,
+    "inStock": true,
+    "details": "5kg bag. Attracts robins, blue tits, goldfinches, and more. Contains sunflower hearts, nyjer seed, peanut granules, and dried mealworms. No fillers or waste. Supports RSPB conservation efforts."
+  },
+  {
+    "id": 7,
+    "name": "Cat Activity Tunnel",
+    "category": "Cat Accessories",
+    "price": 22.99,
+    "description": "Collapsible play tunnel with crinkle material and hanging toys to encourage exercise and play.",
+    "image": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=800&q=80",
+    "featured": false,
+    "inStock": true,
+    "details": "Length: 120cm, Diameter: 25cm. Waterproof nylon material. Built-in crinkle paper for sound. Two hanging feather toys. Folds flat for storage."
+  },
+  {
+    "id": 8,
+    "name": "Natural Hamster Bedding",
+    "category": "Small Animal Supplies",
+    "price": 8.99,
+    "description": "Chemical-free paper bedding made from recycled materials, super absorbent and dust-free.",
+    "image": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?w=800&q=80",
+    "featured": false,
+    "inStock": true,
+    "details": "1.5kg bag. 99.5% dust-free. Absorbs 3x its weight. Biodegradable and compostable. Ideal for hamsters, gerbils, and mice."
+  },
+  {
+    "id": 9,
+    "name": "Premium Dog Leash Set",
+    "category": "Dog Accessories",
+    "price": 39.99,
+    "description": "Handcrafted leather leash and collar set, made in Scotland from full-grain leather with solid brass fittings.",
+    "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+    "featured": false,
+    "inStock": true,
+    "details": "Available in three sizes (S, M, L). 180cm leash with padded handle. Solid brass D-rings and clips. Vegetable-tanned leather. Will darken and soften with age."
+  },
+  {
+    "id": 10,
+    "name": "Aquarium Starter Kit",
+    "category": "Fish Supplies",
+    "price": 89.99,
+    "description": "Complete aquarium kit including tank, filter, heater, and LED lighting system.",
+    "image": "https://images.unsplash.com/photo-1520990456985-c76d0eb5b7c3?w=800&q=80",
+    "featured": false,
+    "inStock": true,
+    "details": "60L glass tank (60x30x35cm). Internal filter (200L/h). Adjustable heater (50W). Energy-efficient LED light. Includes water conditioner and fish food starter pack."
+  },
+  {
+    "id": 11,
+    "name": "Chicken Coop Feeder",
+    "category": "Poultry Supplies",
+    "price": 44.99,
+    "description": "Weather-resistant automatic feeder suitable for up to 12 chickens, with rain cover and anti-waste design.",
+    "image": "https://images.unsplash.com/photo-1548550023-2bdb3c5beed7?w=800&q=80",
+    "featured": false,
+    "inStock": true,
+    "details": "12kg capacity. UV-resistant plastic. Adjustable flow control. Prevents waste and contamination. Easy to fill and clean. Suitable for pellets and mixed grain."
+  },
+  {
+    "id": 12,
+    "name": "Cat Grooming Kit",
+    "category": "Cat Accessories",
+    "price": 27.99,
+    "description": "Professional-quality grooming tools including slicker brush, deshedding tool, nail clippers, and comb.",
+    "image": "https://images.unsplash.com/photo-1573865526739-10c1dd7e1b7f?w=800&q=80",
+    "featured": false,
+    "inStock": true,
+    "details": "Stainless steel tools with ergonomic handles. Slicker brush for removing loose fur. Deshedding tool reduces shedding by up to 90%. Safety-stop nail clippers. Includes storage case."
+  }
+]
