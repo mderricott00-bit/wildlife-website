@@ -1,5 +1,7 @@
 @import "tailwindcss";
 
+@custom-variant dark (&:where(.dark, .dark *));
+
 /* Custom Theme Variables */
 @theme {
   --color-background: #ffffff;
@@ -16,25 +18,25 @@
   
   --spacing-section: 5rem;
   --radius-card: 0.75rem;
-}
-
-/* Dark Mode Theme Variables */
-@media (prefers-color-scheme: dark) {
-  @theme {
-    --color-background: #0f172a;
-    --color-foreground: #f1f5f9;
-    --color-card: #1e293b;
-    --color-primary: #22c55e;
-    --color-primary-dark: #16a34a;
-    --color-secondary: #06b6d4;
-    --color-accent: #f59e0b;
-    --color-border: #334155;
-  }
+  
+  /* Dark mode colors */
+  --color-background-dark: #0f172a;
+  --color-foreground-dark: #f1f5f9;
+  --color-card-dark: #1e293b;
+  --color-primary-light: #22c55e;
+  --color-secondary-light: #06b6d4;
+  --color-accent-light: #f59e0b;
+  --color-border-dark: #334155;
 }
 
 /* Base Styles */
 * {
   border-color: var(--color-border);
+}
+
+.dark * {
+  border-color: var(--color-border-dark);
+  --color-foreground: var(--color-foreground-dark);
 }
 
 body {
@@ -47,9 +49,37 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.dark body,
+body.dark,
+html.dark,
+.dark {
+  background-color: var(--color-background-dark);
+  color: var(--color-foreground-dark);
+}
+
+.dark,
+.dark body {
+  color: var(--color-foreground-dark);
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   color: var(--color-foreground);
+}
+
+.dark h1, 
+.dark h2, 
+.dark h3, 
+.dark h4, 
+.dark h5, 
+.dark h6,
+html.dark h1,
+html.dark h2,
+html.dark h3,
+html.dark h4,
+html.dark h5,
+html.dark h6 {
+  color: var(--color-foreground-dark);
 }
 
 /* Button Styles */
@@ -115,12 +145,22 @@ h1, h2, h3, h4, h5, h6 {
   transition: all 0.2s;
 }
 
+.dark .card {
+  background-color: var(--color-card-dark);
+  border-color: var(--color-border-dark);
+}
+
 .card-hover {
   background-color: var(--color-card);
   border-radius: var(--radius-card);
   border: 1px solid var(--color-border);
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
   transition: all 0.2s;
+}
+
+.dark .card-hover {
+  background-color: var(--color-card-dark);
+  border-color: var(--color-border-dark);
 }
 
 .card-hover:hover {

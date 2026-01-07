@@ -12,13 +12,11 @@ interface Wildlife {
   conservationStatus: string;
   sponsorshipCost: number;
   image: string;
-  shortDescription: string;
-  fullDescription: string;
-  habitat: string;
-  diet: string;
-  threats: string;
-  facts: string[];
   currentResidents: number;
+  // Wikipedia data
+  wikipediaExtract?: string;
+  wikipediaImage?: string;
+  wikipediaUrl?: string;
 }
 
 interface WildlifeCardProps {
@@ -28,6 +26,14 @@ interface WildlifeCardProps {
 export default function WildlifeCard({ wildlife }: WildlifeCardProps) {
   const [isModalOpen, setIsModalOpen] = useState(false);
 
+  // Use Wikipedia image if available, otherwise fallback to local
+  const displayImage = wildlife.wikipediaImage || wildlife.image;
+  
+  // Use Wikipedia extract for description, truncated for card
+  const description = wildlife.wikipediaExtract 
+    ? wildlife.wikipediaExtract.substring(0, 150) + '...'
+    : 'Click to learn more about this species from Wikipedia.';
+
   return (
     <>
       <div 
@@ -36,7 +42,7 @@ export default function WildlifeCard({ wildlife }: WildlifeCardProps) {
       >
         <div className="relative h-64 bg-gray-100 dark:bg-gray-800 overflow-hidden">
           <Image
-            src={wildlife.image}
+            src={displayImage}
             alt={wildlife.name}
             fill
             className="object-cover group-hover:scale-105 transition-transform duration-300"
@@ -47,6 +53,13 @@ export default function WildlifeCard({ wildlife }: WildlifeCardProps) {
               {wildlife.currentResidents} resident{wildlife.currentResidents !== 1 ? 's' : ''}
             </span>
           </div>
+          {wildlife.wikipediaImage && (
+            <div className="absolute top-4 left-4">
+              <span className="badge bg-blue-500/90 text-white text-xs">
+                📷 Wiki
+              </span>
+            </div>
+          )}
         </div>
         <div className="p-6">
           <div className="flex items-start justify-between mb-3">
@@ -71,7 +84,7 @@ export default function WildlifeCard({ wildlife }: WildlifeCardProps) {
           </div>
 
           <p className="text-foreground/70 text-sm mb-4 line-clamp-3">
-            {wildlife.shortDescription}
+            {description}
           </p>
 
           <div className="flex items-center justify-between pt-4 border-t border-border">

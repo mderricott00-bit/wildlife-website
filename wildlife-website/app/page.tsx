@@ -321,7 +321,7 @@ export default async function Home() {
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
               Subscribe for Exclusive Benefits
             </h2>
-            <p className="text-lg text-foreground/80 mb-8">
+            <p className="text-lg text-foreground/80 dark:text-foreground/70 mb-8">
               Join our community and receive a 10% discount voucher to use in-store! 
               Subscribers get access to exclusive offers, event notifications, and conservation updates.
             </p>

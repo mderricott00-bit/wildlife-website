@@ -12,13 +12,11 @@ interface Wildlife {
   conservationStatus: string;
   sponsorshipCost: number;
   image: string;
-  shortDescription: string;
-  fullDescription: string;
-  habitat: string;
-  diet: string;
-  threats: string;
-  facts: string[];
   currentResidents: number;
+  // Wikipedia data (primary source)
+  wikipediaExtract?: string;
+  wikipediaImage?: string;
+  wikipediaUrl?: string;
 }
 
 export default function WildlifePage() {
