@@ -4,12 +4,12 @@ import { getAuth } from 'firebase/auth';
 // Firebase configuration
 // Note: These are placeholder values. Replace with your actual Firebase project credentials
 const firebaseConfig = {
-  apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY || "AIzaSyDemoKey123456789",
-  authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN || "wildlife-rescue.firebaseapp.com",
-  projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID || "wildlife-rescue",
-  storageBucket: process.env.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET || "wildlife-rescue.appspot.com",
-  messagingSenderId: process.env.NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID || "123456789",
-  appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID || "1:123456789:web:abc123def456"
+  apiKey: "AIzaSyBT6XFYNk3c9F4R5QzNnpm78AJQAn87eTg",
+  authDomain: "wildlife-website-be931.firebaseapp.com",
+  projectId: "wildlife-website-be931",
+  storageBucket: "wildlife-website-be931.firebasestorage.app",
+  messagingSenderId: "289354760670",
+  appId: "1:289354760670:web:82d78280bb4bcc48db1d4f"
 };
 
 // Initialize Firebase
