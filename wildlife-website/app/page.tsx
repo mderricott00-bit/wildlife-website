@@ -35,13 +35,11 @@ export default async function Home() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="animate-slide-up">
               <h1 className="text-4xl md:text-6xl font-bold mb-6 text-balance">
-                Welcome to Jacob&apos;s Pet Shop
-                <span className="block text-primary mt-2">& Wildlife Rescue Centre</span>
+                Welcome to Bru Pet Supplies
               </h1>
               <p className="text-lg md:text-xl text-foreground/80 mb-8 leading-relaxed">
                 Serving the Scottish community since 1985 with quality pet supplies, expert advice, 
-                and dedicated wildlife conservation efforts. Visit our rescue centre to meet native 
-                Scottish wildlife and support vital conservation work.
+                and working closely with dedicated wildlife conservation efforts. 
               </p>
               <div className="flex flex-wrap gap-4">
                 <Link href="/products" className="btn-primary">
@@ -73,7 +71,7 @@ export default async function Home() {
               Your Local Pet Shop Since 1985
             </h2>
             <p className="text-lg text-foreground/80 leading-relaxed">
-              At Jacob&apos;s Pet Shop, we&apos;re passionate about pets and wildlife. Our family-run business 
+              At Bru Pet Supplies, we&apos;re passionate about pets and wildlife. Our family-run business 
               has been providing quality pet supplies, expert advice, and exceptional customer service for nearly 
               four decades. Located in the heart of Inverness, we serve pet owners across the Highlands.
             </p>
@@ -179,7 +177,7 @@ export default async function Home() {
                 Support Scottish Wildlife Conservation
               </h2>
               <p className="text-lg mb-6 text-white/90 leading-relaxed">
-                Our Wildlife Rescue Centre provides care and rehabilitation for native Scottish species 
+                Our friends at Jacobs Wildlife Rescue Centre provides care and rehabilitation for native Scottish species 
                 including red squirrels, pine martens, wildcats, and birds of prey. Every sponsorship 
                 directly supports their care and contributes to vital conservation work protecting 
                 Scotland&apos;s precious wildlife heritage.
@@ -195,7 +193,7 @@ export default async function Home() {
                   <svg className="w-6 h-6 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                   </svg>
-                  <span>Visit our rescue centre and meet the residents</span>
+                  <span>Visit the rescue centre and meet the residents</span>
                 </li>
                 <li className="flex items-center space-x-3">
                   <svg className="w-6 h-6 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">

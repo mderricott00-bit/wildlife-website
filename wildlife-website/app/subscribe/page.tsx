@@ -11,7 +11,7 @@ export default function SubscribePage() {
         {/* Hero */}
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Subscribe to Jacob&apos;s Community
+            Subscribe to Bru&apos;s Community
           </h1>
           <p className="text-xl text-foreground/80">
             Get exclusive benefits and support Scottish wildlife conservation

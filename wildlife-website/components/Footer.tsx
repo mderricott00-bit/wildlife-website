@@ -11,7 +11,7 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-bold mb-4 text-foreground">About Us</h3>
             <p className="text-sm text-foreground/70 mb-4">
-              Jacob&apos;s Pet Shop has been serving the community since 1985, providing quality pet supplies and supporting Scottish wildlife conservation.
+              Bru Pet Supplies has been serving the community since 1985, providing quality pet supplies and supporting Scottish wildlife conservation.
             </p>
             <div className="flex space-x-3">
               <a href="#" className="p-2 rounded-lg hover:bg-primary/10 transition-colors" aria-label="Facebook">
@@ -85,7 +85,7 @@ export default function Footer() {
                 <svg className="w-5 h-5 text-primary shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                 </svg>
-                <span>info@jacobspetshop.scot</span>
+                <span>info@brupetsupplies.com</span>
               </li>
             </ul>
           </div>
@@ -117,7 +117,7 @@ export default function Footer() {
         <div className="mt-8 pt-8 border-t border-border">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-sm text-foreground/70">
-              &copy; {currentYear} Jacob&apos;s Pet Shop & Wildlife Rescue Centre. All rights reserved.
+              &copy; {currentYear} Bru Pet Supplies & Jacob&apos;s Wildlife Rescue Centre. All rights reserved.
             </p>
             <div className="flex space-x-6 text-sm">
               <Link href="/privacy" className="text-foreground/70 hover:text-primary transition-colors">

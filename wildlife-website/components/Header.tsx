@@ -45,8 +45,7 @@ export default function Header() {
               </svg>
             </div>
             <div className="hidden md:block">
-              <div className="text-xl font-bold text-foreground">Jacob&apos;s Pet Shop</div>
-              <div className="text-xs text-foreground/70">& Wildlife Rescue Centre</div>
+              <div className="text-xl font-bold text-foreground">Bru Pet Supplies</div>
             </div>
           </Link>
 
