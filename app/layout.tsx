@@ -12,12 +12,12 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Jacob's Pet Shop & Wildlife Rescue Centre | Scottish Wildlife Conservation",
-  description: "Visit Jacob's Pet Shop for quality pet supplies and learn about our Scottish Wildlife Rescue Centre. Sponsor native wildlife, attend events, and support conservation efforts in Scotland.",
+  title: "Bru Pet Supply",
+  description: "Visit Bru Pet Supplies for quality pet supplies and learn about our work with Jacobs Scottish Wildlife Rescue Centre. Sponsor native wildlife, attend events, and support conservation efforts in Scotland.",
   keywords: "pet shop, wildlife rescue, Scottish wildlife, red squirrel, pine marten, wildcat, wildlife sponsorship, Scotland conservation, pet supplies",
-  authors: [{ name: "Jacob's Pet Shop & Wildlife Rescue" }],
+  authors: [{ name: "Bru Pet Supply" }],
   openGraph: {
-    title: "Jacob's Pet Shop & Wildlife Rescue Centre",
+    title: "Bru Pet Supply",
     description: "Quality pet supplies and Scottish wildlife conservation",
     type: "website",
   },
